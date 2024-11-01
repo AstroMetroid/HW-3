@@ -1,4 +1,5 @@
-## Garrett Tufts
+## Members
+### Garrett Tufts
 
 ## Quick Start
 ### Local Test Setup

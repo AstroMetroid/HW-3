@@ -27,3 +27,12 @@ Then you can start the server with:
 ```
 python3 main.py
 ```
+## Running Program
+Adding (5, 'Cherry') to basket_a:
+```
+127.0.0.1:5000/api/update_basket_a
+```
+Separating uique fruits from both baskets
+```
+127.0.0.1:5000/api/unique
+```

@@ -1,4 +1,4 @@
-Example 3: This project shows how we can connect PostgreSQL with flask and show SQL results.
+## Garrett Tufts
 
 ## Quick Start
 ### Local Test Setup
